@@ -170,7 +170,7 @@ header {
   color: #4d4d4d;
   font-weight: 300;
   font-size: 16px;
-  font-family: OpenSansLight;
+  font-family: "Open Sans", sans-serif;
   line-height: 25px;
   margin-bottom: 20px;
 }
@@ -687,7 +687,7 @@ table.tabla-vertical tbody tr > th {
 .modal ul li span {
   color: #4d4d4d;
   font-weight: 400;
-  font-family: OpenSansLight;
+  font-family: "Open Sans", sans-serif;
 }
 .modal ul li span span {
   color: #56a51d;
