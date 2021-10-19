@@ -50,7 +50,7 @@ input[type="color"]:focus,
 
 /*Cuerpo general*/
 body {
-  font-family: OpenSansLight;
+  font-family: "Open Sans", sans-serif;
   background-color: #dfdfdf;
 }
 
