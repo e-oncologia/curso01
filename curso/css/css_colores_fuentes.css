@@ -164,6 +164,8 @@ header {
 }
 .pagina h4.panel-title {
   margin-bottom: 0px;
+}
+.panel-title {
   font-family: "Open Sans", sans-serif !important;
 }
 .pagina p {
