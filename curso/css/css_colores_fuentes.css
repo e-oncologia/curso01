@@ -943,3 +943,6 @@ table.tabla-vertical tbody tr > th {
   margin-top: 5px;
   text-align: left;
 }
+.sinserifas {
+  font-family: "Open Sans", sans-serif !important;
+}
