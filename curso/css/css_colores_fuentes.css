@@ -50,7 +50,7 @@ input[type="color"]:focus,
 
 /*Cuerpo general*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: OpenSansLight;
   background-color: #dfdfdf;
 }
 
@@ -170,7 +170,7 @@ header {
   color: #4d4d4d;
   font-weight: 300;
   font-size: 16px;
-  font-family: "Open Sans", sans-serif;
+  font-family: OpenSansLight;
   line-height: 25px;
   margin-bottom: 20px;
 }
@@ -687,7 +687,7 @@ table.tabla-vertical tbody tr > th {
 .modal ul li span {
   color: #4d4d4d;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: OpenSansLight;
 }
 .modal ul li span span {
   color: #56a51d;
@@ -942,8 +942,4 @@ table.tabla-vertical tbody tr > th {
 .flips .opcion_bloque p {
   margin-top: 5px;
   text-align: left;
-}
-
-.sinserifas {
-  font-family: "Open Sans", sans-serif !important;
 }
